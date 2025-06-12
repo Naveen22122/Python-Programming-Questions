@@ -1,5 +1,5 @@
 1)add two numbers   (method1-predefined variables)
-
+.........................................................
 num1=25                                         
 num2=35
 Sum=num1+num2
